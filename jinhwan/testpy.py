@@ -1,1 +1,2 @@
-print("hello git")
+print("Hello git")
+print("CS study")
